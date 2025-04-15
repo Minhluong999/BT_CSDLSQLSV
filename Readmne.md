@@ -16,7 +16,8 @@ deadline: 15/4/2025
 --------------------------------------------------------------------------------------------------------------------
 LỌC GIẢNG VIÊN TRONG TMS.tnut.edu.vn
 
-![image](https://github.com/user-attachments/assets/035298e1-08dc-4c51-b0a9-4ee56ffd44db)
+![image](https://github.com/user-attachments/assets/843c2234-9f58-4178-bc7e-a1a8b6d1158c)
+
 
 
 Tạo bảng 
