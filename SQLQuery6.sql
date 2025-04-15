@@ -1,0 +1,9 @@
+DECLARE @datetime1 DATETIME = '2025-04-14 09:00:00';
+DECLARE @datetime2 DATETIME = '2025-04-14 12:00:00';
+
+SELECT DISTINCT GiangVien.MaGV, GiangVien.HoTen
+FROM LichTKB
+JOIN GiangVien ON LichTKB.MaGV = GiangVien.MaGV
+WHERE (CAST(NgayHoc AS DATETIME) + CAST(GioVao AS DATETIME) <= @datetime2) 
+  AND (CAST(NgayHoc AS DATETIME) + CAST(GioRa AS DATETIME) >= @datetime1);
+GO
