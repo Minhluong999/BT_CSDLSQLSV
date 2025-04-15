@@ -15,7 +15,9 @@ các bước thực hiện:
 deadline: 15/4/2025
 --------------------------------------------------------------------------------------------------------------------
 LỌC GIẢNG VIÊN TRONG TMS.tnut.edu.vn
+
 ![image](https://github.com/user-attachments/assets/035298e1-08dc-4c51-b0a9-4ee56ffd44db)
+
 
 Tạo bảng 
 Bảng GV chọn MaGV làm Key
@@ -25,15 +27,18 @@ Bảng GV chọn MaGV làm Key
 
 Bảng MonHoc chọn MaMH là key
 
-![image](https://github.com/user-attachments/assets/afa542cb-dab5-475c-903c-c0d4cc97b1fc)
+![image](https://github.com/user-attachments/assets/825442f6-445a-443c-b4e4-aef52cfdac57)
 
-Bảng Lop chọn MaLop làm key 
 
-![image](https://github.com/user-attachments/assets/ab172730-b4ab-4bc3-ada6-6d33a1820fc7)
+Bảng LopHP chọn MaLop làm key 
+
+![image](https://github.com/user-attachments/assets/288001ba-27e3-454f-bfe9-754a4bcfce87)
+
 
 Bảng MaPhong chọn MaPhong làm key 
 
-![image](https://github.com/user-attachments/assets/b1ca2d5d-a260-40bd-ab7a-d0536db3ef7a)
+![image](https://github.com/user-attachments/assets/b3d2aed2-7b8b-440b-9b04-7788e481e45f)
+
 
 bảng LichTKB 
 
@@ -42,7 +47,32 @@ bảng LichTKB
 
 TẠO KHÓA NGOẠI CHO BẢNG TKB
 
+![image](https://github.com/user-attachments/assets/5874c166-a745-4169-8b06-b05f6b19d562)
 
+
+THÔNG TIN GIANG VIEN
+
+![image](https://github.com/user-attachments/assets/5f54211b-f5c1-46eb-b008-834aec6ba467)
+
+
+BẢNG LopHP
+
+
+![image](https://github.com/user-attachments/assets/319e9f6a-b254-46c2-b3be-16129ce8cbea)
+
+
+BẢNG MONHOC
+
+![image](https://github.com/user-attachments/assets/e642526e-c826-48d9-84cb-47286e9f9ce5)
+
+
+Bảng lichTKB
+
+
+![image](https://github.com/user-attachments/assets/7647d805-3693-4df2-953d-4e751ac1fcbc)
+
+
+Trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
 
 
 
