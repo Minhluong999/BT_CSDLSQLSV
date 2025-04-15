@@ -75,5 +75,10 @@ Bảng lichTKB
 Trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
 
 
+![image](https://github.com/user-attachments/assets/5714edc9-9288-44ea-91e0-ad7969798be0)
+
+
+Truy vấn SQL này kiểm tra xem trong khoảng thời gian được chỉ định (datetime1 đến datetime2), giảng viên nào đang có lịch giảng dạy bằng cách so sánh thời gian học (GioVao, GioRa) và ngày học (NgayHoc) với khoảng thời gian đó. Kết quả trả về là danh sách các giảng viên đang bận dạy trong khoảng thời gian bạn đã chọn.
+
 
 
